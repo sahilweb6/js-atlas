@@ -1,0 +1,10 @@
+{
+  // Cloudflare Pages configuration for JS Atlas
+  // https://developers.cloudflare.com/pages/functions/wrangler-configuration/
+  "name": "js-atlas",
+  "compatibility_date": "2024-12-01",
+  "pages_build_output_dir": ".vercel/output/static",
+  "build": {
+    "command": "npx @cloudflare/next-on-pages@1"
+  }
+}
