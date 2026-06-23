@@ -152,3 +152,7 @@
     background-clip: text;
   }
 }
+
+html.learn-page-header-static header {
+  position: relative !important;
+}
