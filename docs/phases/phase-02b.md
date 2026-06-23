@@ -200,12 +200,15 @@ https://js-atlas.pages.dev
 
 ## Next Phase
 
-Phase 03: Content Engine
+Phase 02C: Homepage
 
 Planned:
 
-* MDX rendering pipeline
-* Lesson content structure
-* Code syntax highlighting (Shiki)
-* Content navigation (previous/next)
-* Table of contents generation
+* Hero section
+* Learning paths
+* Curriculum roadmap
+* Features section
+* Open source section
+* Call-to-action sections
+* Responsive homepage layout
+* Integration with Application Shell
